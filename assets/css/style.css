@@ -324,12 +324,6 @@ h6 {
     background-size: cover;
     position: relative;
   }
-  
-  @media (min-width: 1024px) {
-    #home {
-      background-attachment: fixed;
-    }
-  }
 
 #home:before {
     content: "";
